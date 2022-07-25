@@ -43,7 +43,7 @@ vless 性能更加优秀，占用资源更少。
 ```bash
 * 客户端下载：https://github.com/2dust/v2rayN/releases
 * 代理协议：vless 或 vmess
-* 地址：xxx.herokuapp.com
+* 地址：mnbt3.herokuapp.com
 * 端口：443
 * 默认UUID：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
 * vmess额外id：0
@@ -87,7 +87,7 @@ vless 性能更加优秀，占用资源更少。
 * 客户端下载：https://github.com/shadowsocks/shadowsocks-windows/releases/
 * 服务器地址: xxx.herokuapp.com
 * 端口: 443
-* 密码：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
+* 密码：a1c094df-5385-4c07-bbe0-0e86440185b2
 * 加密：chacha20-ietf-poly1305
 * 插件程序：xray-plugin_windows_amd64.exe  //需将插件https://github.com/shadowsocks/xray-plugin/releases下载解压后放至shadowsocks同目录
 * 插件选项: tls;host=xxx.herokuapp.com;path=/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-ss
